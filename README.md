@@ -6,5 +6,8 @@ Implementation of MLP.
 ### Subject
 Subject: Intelligent data analysis.
 
+### Programming language
+Python
+
 ### Date
-2020
+Winter 2020
